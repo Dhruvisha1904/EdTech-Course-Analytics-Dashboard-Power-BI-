@@ -15,3 +15,6 @@ Power BI , Power Query , DAX
 
 Outcome:-
 Provided insights to help improve course strategy and learner engagement.
+
+
+![Image Alt](https://github.com/Dhruvisha1904/EdTech-Course-Analytics-Dashboard-Power-BI-/blob/d2beea5bfb8e1366a227d5afb704d5415be55c1c/Dashboard_screenshot.png)
